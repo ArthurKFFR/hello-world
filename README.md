@@ -12,3 +12,5 @@ Repositórios futuros conterão projetos pessoais e as mudanças feitas neles.
 ## Teste2
 
 Mais uma linha adicionada utilizando Git.
+
+E por fim, mais uma.
