@@ -14,3 +14,7 @@ Repositórios futuros conterão projetos pessoais e as mudanças feitas neles.
 Mais uma linha adicionada utilizando Git.
 
 E por fim, mais uma.
+
+## Teste3
+
+Esta mudança faz parte de um merge.
