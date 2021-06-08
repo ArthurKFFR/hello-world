@@ -8,3 +8,7 @@ Future repositories will contain personal projects and the changes that will be 
 Este repositório é um teste. 
 Este repositório é exclusivamente para aprender como Git funciona!
 Repositórios futuros conterão projetos pessoais e as mudanças feitas neles.
+
+## Teste2
+
+Mais uma linha adicionada utilizando Git.
